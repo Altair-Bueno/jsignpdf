@@ -1,4 +1,4 @@
-baseURL = "https://intoolswetrust.github.io/jsignpdf/"
+baseURL = "https://jsignpdf.eu/"
 title    = "JSignPdf"
 
 languageCode      = "en-us"
@@ -86,7 +86,7 @@ hasCJKLanguage    = false
     displayLogo  = true
     [params.navbar.logo]
       path   = "img/signedpdf.png"
-      link   = "/jsignpdf/"
+      link   = "/"
       width  = 28
       height = 28
 
